@@ -20,14 +20,14 @@
 <atom:link rel="alternate" href="https://rallysecurity.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity
 </description>
-    <lastBuildDate>Fri, 07 Jun 2019 16:45:04 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 17:12:54 -0400</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
     <itunes:summary>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity
 </itunes:summary>
     <itunes:author>Ben Heise</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://rallysecurity.com/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Ben Heise</itunes:name>
@@ -35,7 +35,7 @@
     </itunes:owner>
     <managingEditor>ben@rallysecurity.com (Ben Heise)</managingEditor>
     <copyright>CC BY 4.0</copyright>
-    <itunes:subtitle>A security podcast about Nerds, News, and NSA gold</itunes:subtitle>
+    <itunes:subtitle>A security podcast about Nerds, News, & NSA gold</itunes:subtitle>
     <itunes:keywords>rallysecurity, podcast, security</itunes:keywords>
     <image>
       <title>RallySecurity Podcast</title>
@@ -86,7 +86,7 @@
             <itunes:author>Arne and Stefan</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:03:13</itunes:duration>
-            
+            <atom:link rel="payment" href="https://flattr.com/submit/auto?url=https%3A%2F%2Frallysecurity.com%2F2016%2F03%2F22%2Fepisode0.html&amp;user_id=zlq2ke" type="text/html" />
             
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               

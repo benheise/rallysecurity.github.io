@@ -4,7 +4,7 @@
   <title>RallySecurity Podcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-06-07T16:45:04-04:00</updated>
+  <updated>2019-06-07T17:12:54-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
@@ -33,7 +33,7 @@
 
 </content>
       
-      
+      <link rel="payment" href="https://flattr.com/submit/auto?url=https%3A%2F%2Frallysecurity.com%2Fjekyll%2Fupdate%2F2019%2F06%2F07%2Fwelcome-to-jekyll.html&amp;user_id=zlq2ke" type="text/html" />
     </entry>
   
     <entry>
@@ -62,7 +62,7 @@
       
         <link rel="enclosure" type="audio/mp4a-latm" length="212562" href="https://rallysecurity.com/episodes/episode0.m4a"/>
       
-      
+      <link rel="payment" href="https://flattr.com/submit/auto?url=https%3A%2F%2Frallysecurity.com%2F2016%2F03%2F22%2Fepisode0.html&amp;user_id=zlq2ke" type="text/html" />
     </entry>
   
 </feed>
