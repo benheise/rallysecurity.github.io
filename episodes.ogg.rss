@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://localhost:4000/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>My super duper cool podcast.
 </description>
-    <lastBuildDate>Fri, 07 Jun 2019 15:23:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 15:45:42 -0400</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
