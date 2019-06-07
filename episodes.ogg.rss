@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://localhost:4000/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity
 </description>
-    <lastBuildDate>Fri, 07 Jun 2019 16:38:22 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 16:40:42 -0400</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -79,7 +79,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://rallysecurity.com/episodes/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="https://rallysecurity.com/episodes/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
