@@ -12,14 +12,14 @@
    "url": "http://benjaminheise.com/"
  },
  "items": [
-   {"id": "e93c3918",
-    "title": "Watch us live on Twitch",
+   {"id": "612f0dba",
+    "title": "Episode 1-100",
     "summary": "",
-    "content_text": "\t\tWatch us live over at https://www.twitch.tv/rallysecurity",
-    "content_html": "<div class=\"embed-container\">\t<iframe src=\"https://player.twitch.tv/?channel=rallysecurity\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"378\" width=\"620\">\t</iframe></div><p>Watch us live over at <a href=\"https://twitch.tv/rallysecurity\">https://www.twitch.tv/rallysecurity</a></p>",
-    "url": "https://rallysecurity.com/2019/06/08/twitch.html",
-    "date_published": "2019-06-08T00:00:00-04:00",
-    "date_modified": "2019-06-08T00:00:00-04:00",
+    "content_text": "Season 1  We’ve compiled and compressed all of our season1 episodes into one place.  Get the big archive here (12GB)",
+    "content_html": "<h2 id=\"season-1\">Season 1</h2><ul>  <li>We’ve compiled and compressed all of our season1 episodes into one place.</li>  <li>Get <a href=\"https://drive.google.com/file/d/1zikkkqThq0pS8j7Dt04PaOJqfx6Ogwrc/view?usp=sharing\">the big archive here</a> (12GB)</li></ul>",
+    "url": "https://rallysecurity.com/2019/06/06/episode1-100.html",
+    "date_published": "2019-06-06T00:00:00-04:00",
+    "date_modified": "2019-06-06T00:00:00-04:00",
     "author": {
       "name": "Ben Heise"
     }
