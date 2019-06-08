@@ -8,7 +8,7 @@
      version="2.0">
 
   <channel>
-    <title>RallySecurity Podcast</title>
+    <title>RallySecurityPodcast</title>
     <link>https://rallysecurity.com</link>
     <atom:link href="https://rallysecurity.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <atom:link href="https://rallysecurity.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://rallysecurity.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity
 </description>
-    <lastBuildDate>Sat, 08 Jun 2019 02:36:54 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 03:17:57 -0400</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -38,7 +38,7 @@
     <itunes:subtitle>A security podcast about Nerds, News, & NSA gold</itunes:subtitle>
     <itunes:keywords>rallysecurity, podcast, security</itunes:keywords>
     <image>
-      <title>RallySecurity Podcast</title>
+      <title>RallySecurityPodcast</title>
       <url>https://rallysecurity.com/img/logo-itunes.jpg</url>
       <link>https://rallysecurity.com</link>
     </image>
