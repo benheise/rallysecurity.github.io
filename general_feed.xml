@@ -4,7 +4,7 @@
   <title>RallySecurity Podcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-06-08T01:17:46-04:00</updated>
+  <updated>2019-06-08T01:23:35-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
@@ -13,14 +13,16 @@
 
   
     <entry>
-      <title>Episode 1-100</title>
-      <link href="https://rallysecurity.com/2019/06/06/episode1-100.md.bak"/>
-      <updated>2019-06-06T00:00:00-04:00</updated>
-      <id>https://rallysecurity.com/2019/06/06/episode1-100.md</id>
-      <content type="html">## Season 1
+      <title>Watch us live on Twitch</title>
+      <link href="https://rallysecurity.com/2019/06/08/twitch.html"/>
+      <updated>2019-06-08T00:00:00-04:00</updated>
+      <id>https://rallysecurity.com/2019/06/08/twitch</id>
+      <content type="html">&lt;div class=&quot;embed-container&quot;&gt;
+	&lt;iframe src=&quot;https://player.twitch.tv/?channel=rallysecurity&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
 
-  * We've compiled and compressed all of our season1 episodes into one place.
-  * Get [the big archive here](https://drive.google.com/file/d/1zikkkqThq0pS8j7Dt04PaOJqfx6Ogwrc/view?usp=sharing) (12GB)
+&lt;p&gt;Watch us live over at &lt;a href=&quot;https://twitch.tv/rallysecurity&quot;&gt;https://www.twitch.tv/rallysecurity&lt;/a&gt;&lt;/p&gt;
 </content>
       
       
