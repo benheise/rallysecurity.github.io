@@ -12,34 +12,16 @@
    "url": "http://benjaminheise.com/"
  },
  "items": [
-   {"id": "d257a4b7",
-    "title": "Watch the Twitch Stream",
+   {"id": "612f0dba",
+    "title": "Episode 1-100",
     "summary": "",
-    "content_text": "\t\t",
-    "content_html": "<div class=\"embed-container\">\t<iframe src=\"https://player.twitch.tv/?channel=rallysecurity\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"378\" width=\"620\">\t</iframe></div>",
-    "url": "https://rallysecurity.com/jekyll/update/2019/06/07/twitchplayer.html",
-    "date_published": "2019-06-07T00:00:00-04:00",
-    "date_modified": "2019-06-07T00:00:00-04:00",
+    "content_text": "Season 1  We’ve compiled and compressed all of our season1 episodes into one place.  Get the big archive here",
+    "content_html": "<h2 id=\"season-1\">Season 1</h2><ul>  <li>We’ve compiled and compressed all of our season1 episodes into one place.</li>  <li>Get <a href=\"https://drive.google.com/open?id=1zikkqThq0pS8j7Dt04PaOJqfx6Ogwrc\">the big archive here</a></li></ul>",
+    "url": "https://rallysecurity.com/2019/06/06/episode1-100.html",
+    "date_published": "2019-06-06T00:00:00-04:00",
+    "date_modified": "2019-06-06T00:00:00-04:00",
     "author": {
-      "name": ""
-    }
-  },
-   {"id": "11dfd39b",
-    "title": "Episode 0",
-    "summary": "",
-    "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://rallysecurity.com/episodes/episode0.mp3\",\"ogg\":\"https://rallysecurity.com/episodes/episode0.ogg\",\"m4a\":\"https://rallysecurity.com/episodes/episode0.m4a\"},\"coverUrl\":\"https://rallysecurity.com/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://rallysecurity.com/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://rallysecurity.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
-    "url": "https://rallysecurity.com/2016/03/22/episode0.html",
-    "attachments": [
-      {"url": "https://rallysecurity.com/episodes/episode0.m4a",
-       "mime_type": "audio/mpeg",
-       "size_in_bytes": "45750"
-      }
-    ],
-    "date_published": "2016-03-22T00:00:00-04:00",
-    "date_modified": "2016-03-22T00:00:00-04:00",
-    "author": {
-      "name": "Arne and Stefan"
+      "name": "Ben Heise"
     }
   }]
 }
