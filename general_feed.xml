@@ -4,7 +4,7 @@
   <title>RallySecurity Podcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-06-07T21:41:06-04:00</updated>
+  <updated>2019-06-07T21:46:45-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
@@ -15,7 +15,7 @@
     <entry>
       <title>Watch the Twitch Stream</title>
       <link href="https://rallysecurity.com/jekyll/update/2019/06/07/twitchplayer.html"/>
-      <updated>2019-06-07T15:19:17-04:00</updated>
+      <updated>2019-06-07T00:00:00-04:00</updated>
       <id>https://rallysecurity.com/jekyll/update/2019/06/07/twitchplayer</id>
       <content type="html">&lt;div class=&quot;embed-container&quot;&gt;
 	&lt;iframe src=&quot;https://player.twitch.tv/?channel=rallysecurity&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;
