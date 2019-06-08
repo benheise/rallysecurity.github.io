@@ -30,7 +30,7 @@
   <meta name="twitter:title" content="Episode 1-100" />
   <meta name="twitter:description" content="All Season1 episodes in one place" />
   <meta name="twitter:image" content="https://rallysecurity.com/img/logo-itunes.jpg" />
-  <meta name="twitter:player" content="https://rallysecurity.com/players/episode1-100" />
+  <meta name="twitter:player" content="https://rallysecurity.com/players/episode1-100.md" />
   <meta name="twitter:player:width" content="480" />
   <meta name="twitter:player:height" content="480" />
   <meta name="twitter:player:stream" content="https://rallysecurity.com/episodes/" />
@@ -77,10 +77,10 @@
             
   
     
-<section id="1c039b56" class="active">
+<section id="6503cfb8" class="active">
   <div class="page-header">
   <h1>
-    <a class='episode_title' href='https://rallysecurity.com/2019/06/06/episode1-100.html#1c039b56'>Episode 1-100</a>
+    <a class='episode_title' href='https://rallysecurity.com/2019/06/06/episode1-100.md.bak#6503cfb8'>Episode 1-100</a>
     <small class='episode_date'>
       
         2019-06-06 00:00:00 -0400
@@ -91,19 +91,17 @@
 </div>
 
 
-  <h2 id="season-1">Season 1</h2>
+  ## Season 1
 
-<ul>
-  <li>We’ve compiled and compressed all of our season1 episodes into one place.</li>
-  <li>Get <a href="https://drive.google.com/file/d/1zikkkqThq0pS8j7Dt04PaOJqfx6Ogwrc/view?usp=sharing">the big archive here</a> (12GB)</li>
-</ul>
+  * We've compiled and compressed all of our season1 episodes into one place.
+  * Get [the big archive here](https://drive.google.com/file/d/1zikkkqThq0pS8j7Dt04PaOJqfx6Ogwrc/view?usp=sharing) (12GB)
 
     
   <hr>
   
   <a href="https://twitter.com/share"
      class="button btn-primary btn-sm"
-     data-url="https://rallysecurity.com/2019/06/06/episode1-100.html"
+     data-url="https://rallysecurity.com/2019/06/06/episode1-100.md.bak"
      data-text="Episode 1-100">
     <i class="fab fa-twitter"></i> Tweet</a>
   
