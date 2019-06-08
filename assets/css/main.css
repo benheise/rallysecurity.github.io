@@ -12268,7 +12268,7 @@ btn small, .btn small {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > li > a {
   color: #FFF;
-  background-color: #1B2E74; }
+  background-color: #B9181D; }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
   color: #FFF; }
@@ -12282,7 +12282,7 @@ btn small, .btn small {
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-nav > li > a:hover {
-  background-color: #B9181D;
+  background-color: #1B2E74;
   border-color: #FFF;
   color: #FFF; }
 
