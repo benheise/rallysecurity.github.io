@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>RallySecurityPodcast - Cat and Mouse- The Effects of Threat Research on Nation-State Actors</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity
+">
+  <meta name="author" content="Ben Heise">
+
+  <link rel="alternate" type="application/atom+xml" href="https://rallysecurity.com/general_feed.xml" title="General Site Atom Feed (No Podcast Metadata!)" />
+  <link rel="alternate" type="application/rss+xml" title="mp3 Episode RSS-Feed" href="https://rallysecurity.com/episodes.mp3.rss" />
+<link rel="alternate" type="application/rss+xml" title="m4a Episode RSS-Feed" href="https://rallysecurity.com/episodes.m4a.rss" />
+<link rel="alternate" type="application/rss+xml" title="ogg Episode RSS-Feed" href="https://rallysecurity.com/episodes.ogg.rss" />
+
+  <link href='/assets/css/ubuntu.css' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="https://rallysecurity.com/assets/css/main.css">
+
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/jquery.min.js"></script>
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/bootstrap.min.js"></script>
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/icheck.min.js"></script>
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/jquery.fs.selecter.min.js"></script>
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/jquery.fs.stepper.min.js"></script>
+  <script type='text/javascript' src="https://rallysecurity.com/assets/js/custom.js"></script>
+
+  <meta name="twitter:card" content="player" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:title" content="Cat and Mouse- The Effects of Threat Research on Nation-State Actors" />
+  <meta name="twitter:description" content="" />
+  <meta name="twitter:image" content="https://rallysecurity.com/img/logo-itunes.jpg" />
+  <meta name="twitter:player" content="https://rallysecurity.com/players/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors" />
+  <meta name="twitter:player:width" content="480" />
+  <meta name="twitter:player:height" content="480" />
+  <meta name="twitter:player:stream" content="https://rallysecurity.com/episodes/" />
+  <meta name="twitter:player:stream:content_type" content="" />
+
+
+  
+  
+</head>
+
+<body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://rallysecurity.com">RallySecurityPodcast</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a  class="active" href="https://rallysecurity.com/">Main</a></li>
+<li><a  href="https://rallysecurity.com/about/">About</a></li>
+<li><a  href="https://rallysecurity.com/support/">Support Us</a></li>
+<li><a  href="https://rallysecurity.com/previousepisodes/">Previous Episodes</a></li>
+          </ul>
+          <form class="navbar-form navbar-right" action="https://google.com/search" method="get" role="search">
+            <div class="form-group">
+              <input type="text" name="q" class="form-control" placeholder="search item" value="">
+              <input type="hidden" name="q" value="site:rallysecurity.com" />
+            </div>
+            <button type="submit" class="btn btn-default">Search</button>
+          </form>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row ">
+        <div class="col-sm-8">
+          <div class="content">
+            
+  
+    <section id="1c039b56">
+  <div class="page-header">
+  <h1>
+    <a class='episode_title' href='https://rallysecurity.com/2019/06/06/episode1-100.html#1c039b56'>Season 1 Episodes 1-100</a>
+    <small class='episode_date'>
+      
+        2019-06-06 00:00:00 -0400
+      
+    </small> <br />
+    <small></small>
+  </h1>
+</div>
+
+</section>
+
+  
+
+  
+    
+<section id="3f487b7a" class="active">
+  <div class="page-header">
+  <h1>
+    <a class='episode_title' href='https://rallysecurity.com/2016/08/19/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors.html#3f487b7a'>Cat and Mouse- The Effects of Threat Research on Nation-State Actors</a>
+    <small class='episode_date'>
+      
+        2016-08-19 00:00:00 -0400
+      
+    </small> <br />
+    <small></small>
+  </h1>
+</div>
+
+
+  <blockquote>
+  <p>Hello again! I’m moving/porting a blog post that I did on a whim about a week or two ago that I posted on my personal blog. I figured I may as well post it here as well. Considering everything that has happened recently.. I consider myself to be blessed with good timing. da_667</p>
+</blockquote>
+
+<p>I’m going to preface this blog post before I get started. This is supposed to be a 101-level discussion with a low bar to entry, relatively fast, without much in the way of technical definitions. Sometimes, it’s hard for me to do that. Either I want to turn over every stone, go for the 100% completion, or go down every rabbit hole I can. The last thing I want is to be called a charlatan by my peers or be told that content I wrote sucks. So, I’m going to hope that for this subject that I go deep enough into the subject to keep it interesting and explain my perspective, but not deep enough into the weeds to make things boring and pedantic. All that being said, I include citations where I can, and welcome new information, or constructive criticism.</p>
+
+<p>In recent years, the information security industry has seen the rise of threat intelligence and/or threat intel reports. Most would cite Mandiant’s APT1 report as being one of most well-known instances of modern “Threat Intelligence Reporting”. I suppose I should back up for a minute and give you my opinion on what modern threat intelligence reporting looks like. Admittedly, its a little bit arbitrary, but here is how I discern it:</p>
+
+<p>Reports in the past seemed to have a laser-like focus “Just the facts, ma’am”, where the facts were file hashes, host-based artifacts, network-based artifacts, and observed activity. For example,let’s look at something like say… <a href="https://www.cert.org/historical/advisories/CA-2001-19.cfm">Code Red</a>.</p>
+
+<p>Okay so, Code Red wasn’t really a targeted attack, but I couldn’t help but pick it as an example because of the unique message it would leave on hacked websites: “HELLO! Welcome to http://www.worm.com! Hacked By Chinese!” That message was essentially screaming for researchers to say “CHINA DID THIS”. It almost seemed like they coldly, almost methodically made mention of the message, not caring if it was actually the Chinese that unleashed this worm unto the world; like attribution didn’t matter. At all. It leaves these artifacts, it uses these methods to propagate, here is what it looks like, here is how you combat it. Straight and to the point. It felt like solid research, with minimal marketing and drama.</p>
+
+<p>Let’s compare this to the APT1 report , published in 2013. The report reads like a combination of a military intelligence brief, a news report, and a post incident reponse report, all rolled into one. You’re given network and host-based artifacts all the same, but in between there is serious effort applied to attributing the attack, identification of targeted verticals, and a serious effort to dramatize and/or draw attention to /LIVE/ action that the actors performed against targeted systems.</p>
+
+<p>The live videos of actors compromising systems feels almost like its a spectacle, like its meant to serve as some sort of a smoking gun to somebody in a position of power, like there is some sort of a trial going on. You have your perpetrator, you have your motive, and you have their means. This is what modern threat intelligence reporting feels like.</p>
+
+<p>(sidebar: I know a lot of fireant researchers. You know who you are, and you know I respect your work.)</p>
+
+<p>As we have established, threat intel had existed for some time before APT1. Depending on who you ask, some would consider Cliff Stoll’s work, “<a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo’s Egg</a>”, to be one of the first “cyber” threat intelligence reports, as it is one of the first recorded observations of a malicious actor’s CNE capabilities and tradecraft. I wouldn’t really classify it as “modern” threat intelligence, though. It’s a factual story with no spectacle so-to-speak.</p>
+
+<p>The APT1 report was largely credited for coining the term APT (Advanced Persistent Threat) though interestingly enough, Richard Bejtlich states that the <a href="https://taosecurity.blogspot.com/2010/01/what-is-apt-and-what-does-it-want.html">“APT” terminology dates back to around 2006</a>, with the TITANRAIN intrusion set, and that the phrase was originally coined by the US Air Force. My research (which consisted of lazily consulting wikipedia and backtracing through the works cited) shows that TITANRAIN dates as far back as 2003, and targeted a few different verticals and organizations. Though no APT1-style report was ever released publicly (Based on my limited research, we only ever found out about TITANRAIN in the public realm due to <a href="http://searchsecurity.techtarget.com/news/1127062/The-case-of-Shawn-Carpenter-A-cautionary-tale">Shawn Carpenter</a> leaking it), I would consider the TITANRAIN intrusion set to be the first instance of “modern” threat intelligence – massive effort being put towards attribution, identification of targeted organizations and verticals, etc.</p>
+
+<p>So, now that you have some history, and somewhat of an explanation of what I consider modern threat intelligence, Why all of a sudden do security firms care about attribution? Its tied to the rise of the “fifth domain”. In years past, the internet was considered a nebulous space with <a href="http://phrack.org/issues/7/3.html">no well-defined boundaries</a>. No one country had any will they could exert on the internet, until suddenly “Cyber is considered a domain of war, lol.”. The idea of “Cyberspace” being considered a fifth domain dates <a href="http://www.iwar.org.uk/iwar/resources/5th-dimension/iw.htm">as far back as the mid-90s</a>, but wasn’t really taken seriously up until the recent administration, with a so-called cyber tsar being appointed, and Capitol Hill actually paying attention to information security — <a href="http://www.economist.com/node/16478792">for better or worse</a>. Now, suddenly the internet became like the Reese’s commercial — “You got your geopolitics in my internet. You got your internet in my geopolitics!” except without chocolate and peanut butter. Now people who are political experts suddenly think they’re qualified to make cyber security decisions, and people who are cyber security experts suddenly believe that they’re policy experts. To quote Krypt3ia, probably one of my favorite researchers, “STAY IN YOUR LANE”. I’m not against political experts getting involved in cybersecurity, attending conferences, and becoming more well-informed (I mean, it would kinda help defeat the argument that infosec conferences are an echo chambers if we had more outsiders attending), but what /does/ bother me is the uninformed making important decisions that affect us all, feigning that they ‘know better’, when in fact they know nothing. I digress.</p>
+
+<p>Very suddenly, the internet has become a militarized zone, and a massive territorial, international pissing match. Countries are doing everything they can to establish dominance – by owning the their neighbors. If you want a picture of what electronic warfare mixed with the fifth domain looks like, you need only look at what is going on between <a href="https://ics.sans.org/media/E-ISAC_SANS_Ukraine_DUC_5.pdf">Russia and Ukraine</a>. It’s essentially a case-study in how devastating CNA (Computer Network Attack – Attacking computer assets to bring about affects in the real-world) and CNE (Computer Network Exploitation – hacking for the express purpose of sustained intelligence gathering) can be, and proof that it has a place in a country’s electronic warfare catalogue. And in a single paragraph, I have described “Cyberwar”.</p>
+
+<p>There is geopolitical pressure by nations and intelligence communities worldwide to be able to attribute threat actors to nation-states for a number of reasons. These reasons mostly boil down to being able to use the attribution of cyber attacks as a form of leverage during international relations and/or conflicts. I mean, it looks REALLY bad when your ambassador goes to another country and denounces them for hacking, only for the country your denouncing to be able to fire back “So what? You were hacking us, too.” I’m paraphrasing here, but this is essentially what happened when <a href="http://www.npr.org/sections/thetwo-way/2013/02/28/173158072/china-accuses-u-s-of-hacking-military-sites">the US accused china of hacking US infrastructure and business</a>.</p>
+
+<p>In addition to geopolitical motivations for attribution, there is also financial motivation by sufficiently large corporations. “Cyber Insurance” is an emerging market that a lot of corporations are investing in. Its emergence is the direct result of security researchers and practitioners telling companies and organizations for years that its only a matter of time before they become the next victim of a major breach. “Man, I really wish there was an insurance policy we could fall back on in the event we get hacked.” Lo and behold, cyber insurance is born, and companies move to rapidly replace, pare down, or outsource their internal security operations. After all, if getting hacked is an inevitability, what are security professionals being paid for? There is a slight problem however.</p>
+
+<p>These insurance policies often have minimum requirements that a company must meet before an insurer will pony up. This is more or less the same as having an insurance claims adjuster come out to your house to verify that there are no glaring defects or issues that would be considered a risk to them to ensure — like say, stairs without railings, shoddy construction, structural defects, pre-existing damage, etc. If you suffer a breach, and the cyber insurance claims adjust comes by and determines you didn’t mean the “minimum required practices”, <a href="http://www.businessinsurance.com/article/20150515/NEWS06/150519893">the insurance company will deny your claim</a>. What’s the alternative? Prove that the adversary that breached you was sufficiently advanced, the attack was unprecedented, and had a degree of sophistication that no defense could reasonably hope to detect.</p>
+
+<p>This is more or less the scenario that played out with the <a href="http://fortune.com/sony-hack-part-1/">Sony Breach</a>: A belief that the actors were an <a href="https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf">“incredibly advanced” North Korean intrusion set</a>, oh and a full <a href="http://www.insurancejournal.com/news/national/2015/01/12/353835.htm">cyber insurance policy payout</a>. The company gets their insurance money, the IR firm that investigated the breach looks like rockstars (and they get to publish a report stating how advanced and sophisticated the actors were, while <a href="http://www.securitymagazine.com/articles/86649-lessons-to-learn-from-the-sony-breach">neglecting to mention the poor security in place</a>) and everyone gets paid. Sophisticated, advanced, nation-state hackers means money all around.</p>
+
+<p>So now you know why modern threat intelligence reporting is the way it is:</p>
+
+<ul>
+  <li>Countries can use the reports as leverage for geopolitical conflicts and negotiations</li>
+  <li>Large corporations can use it as justification for a cyber insurance policy payout and/or an excuse if they are found to be noncompliant with whatever regulatory compliance they fall under</li>
+  <li>Incident Response firms use it as a marketing rag to show off how fucking awesome their IR team is</li>
+</ul>
+
+<p>Now, what is going on behind the scenes as these reports get released or the intrusion set(s) are discovered and caught in the act? The short answer is that there are a lot of things going on that you don’t see until the report gets posted from both the nation-state adversary side, as well as the side of the security researcher. I’m gonna start by telling you what’s happening on the nation-state side. First and foremost, I can almost 100% guarantee you that by the time a threat intelligence report is publicly posted, that the IOCs from the report are totally stale. How am I so confident? Because any intrusion set or nation-state worth their salt has iron-clad opsec, and they know when they are being watched.</p>
+
+<p>Tell me, how many of you are familiar with the concept of a “<a href="http://www.dtic.mil/doctrine/dod_dictionary/data/b/2923.html">Burn Notice</a>“? How does this apply to cyber operations? The moment nation-state actors notice that something has happened, it all goes out window. All of it. Something has happened could be defined as:</p>
+
+<ul>
+  <li>an implant was caught by an antivirus vendor, or somehow made its way on to virustotal</li>
+  <li>a security firm is probing the C2 infrastructure</li>
+  <li>there are network/infrastructure changes occurring on the target network that hint towards implants having been discovered</li>
+</ul>
+
+<p>Nation-states have a ton of manpower and usually have resources dedicated towards detecting anything that could be considered a threat to their operations. Combine that with nation-state actors being trained to notice changes to the environments they are operating in, and well.. the bottom line is if there is even the slightest change that indicates that they’ve been discovered, you can bet your that it has been noticed, and that efforts are being made to burn the <a href="https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html">C2, implants, tradecraft, and everything</a>. Upon discovery, they throw all of that out the window and completely reinvent themselves from the bottom up.</p>
+
+<p>Don’t believe me? Take a look at <a href="http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_duqu_the_precursor_to_the_next_stuxnet_research.pdf">Duqu</a> vs. <a href="https://cdn.securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf">Duqu 2</a>. Just about everything changed (except maybe targeted organizations — The decision to monitor Kaspersky being a notable and very interesting decision that ultimately lead to their capture). C2 (new IP addresses and domains), implant design (in memory only vs. dropped file artifacts everywhere) and other miscellaneous tradecraft (e.g. no longer using stolen certificates that could be backtraced, having only a few footholds/persistance points in the network on high uptime systems, etc.). There’s a good chance that if you were to read the report on Duqu, then read the report on Duqu 2, you’d never know that they were suspected to be the same nation-state without the names tying them together, and that is the whole point.</p>
+
+<p>For a more recent case study, let’s look at “<a href="https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/">ProjectSauron</a>“. Technical details of the report state that some of the implants have some sort of a targetID associated with certain servers in targeted organizations. This implies (and is later confirmed by the report) that the actors customize implants on a per-target basis, or at a minimum, use some sort of polymorphism. This hypothesis isn’t really so far-fetched if you think about it. Even common ransomware authors build out new versions of their malware daily to avoid detection. What’s interesting about this from a nation-state malware perspective is that if the implant(s) in one target environment are discovered, then theoretically that allows some limited operational damage control to be performed and only burn the implants used for that target’s network only. However in this case, Kaspersky caught multiple instances, in multiple target networks, all sharing the same TTPs. This means that its pretty much back to the drawing board for whoever the “Strider Group” is.</p>
+
+<p>If the nation-state actors are any good, then there should be absolutely nothing that ties campaigns /or/ versions of an implant together. It should be noted that in the rare cases you’re able to pivot off of a name or a registration e-mail address used to register new domains between one campaign and another, or code re-use allowed you to link one campaign/set of implants to another, then that nation-state was terrible at compartmentalizing. <a href="http://www.slideshare.net/grugq/opsec-for-hackers">That’s cross-contamination and that gets you caught</a>. That’s what happened in DNC hack that allowed researchers to supposedly tie the hack back to a Russian intrusion set that was also <a href="https://www.wired.com/2016/07/heres-know-russia-dnc-hack/">observed in Germany</a>.</p>
+
+<p>So now, you have some idea about what’s going on behind the scenes with the nation-state actors, what is going with regards to the security researchers? You see, the security researchers know that information security is a cat and mouse game. They also know that as soon as a nation-state catches wind that something is amiss, that actor will disappear, like a spooked gazelle. This puts them in a very tight position:</p>
+
+<ul>
+  <li>How long do I lay low to see if I can find additional implants, modules, tools, targets, and/or C2 the actor uses?</li>
+  <li>How long can I stay under the radar and observe these actors without them knowing I’m watching?</li>
+</ul>
+
+<p>You have to measure the potential gains from monitoring the actors as they perform their operations, and temper that with the knowledge that they’re in the network for some express purpose (usually gathering intelligence and/or obtaining trade secrets) and that each moment you let them keep operating in the network, is another moment that they’re inevitably screwing over your client. It’s a tough position to be in, to have to tell the client to wait so we can observe before we pull the plug for good. As soon as that plug is pulled and remediation efforts are underway, the jig is up, and the actors gone.</p>
+
+<p>Let’s summarize all of the above, shall we?</p>
+
+<ul>
+  <li>Cybersecurity is a constant cat and mouse game. Offense informs defense, defense informs offense. Yin and Yang. The world in balance.</li>
+  <li>“Cyber Threat Intel” has been around for a long time. It’s only recently with the rise of the “Fifth Domain” that attribution has gotten thrown into the mix and it has suddenly become a Big Deal(tm) and somewhat of a spectacle due to the geopolitical ramifications (using attribution of cyber attacks as leverage during geopolitical conflict and negotiations), justification for cyber insurance payouts and/or security negligence in big corporations domestically, and finally for marketing and proof that our IR team is the bee’s knees and you should totes hire us (marketing).</li>
+  <li>You can bet almost anything that before the threat intel report is even posted, that the nation-state actors already knew and already had plans well under way to burn down the current infrastructure and rebuild it all from scratch in a totally different form.</li>
+  <li>Security researchers who discover nation-state actors in client networks are in a hell of a bind between wanting to observe the actors as long as they can to discover more details of their operation, and shutting down the actors as soon as possible due to the obligation to their clients and/or moral obligations.</li>
+</ul>
+
+<p>DA_667</p>
+
+<h3 id="about-the-author">About the Author</h3>
+<p><img src="https://secure.gravatar.com/avatar/764a6c8a896ce101ee24b8dce76e58c1?s=170&amp;d=mm&amp;r=g" /></p>
+
+<p>Tony Robinson (<a href="https://twitter.com/da_667">@da_667</a>) is a network security engineer. He is currently wrangled by hurricane labs. He had an affinity for network security monitoring, malware analysis, and threat intelligence. When not saving the internet, he can be found playing video games and savoring dank memes.</p>
+
+    
+  <hr>
+  
+  <a href="https://twitter.com/share"
+     class="button btn-primary btn-sm"
+     data-url="https://rallysecurity.com/2016/08/19/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors.html"
+     data-text="Cat and Mouse- The Effects of Threat Research on Nation-State Actors">
+    <i class="fab fa-twitter"></i> Tweet</a>
+  
+
+  
+
+  <hr>
+</section>
+
+  
+
+
+          </div>
+        </div>
+        <div id="sidebar" class="col-sm-4">
+          <div class="well">
+            <div class="page-header">
+  <h3>
+    RallySecurityPodcast
+    <br/><small>A security podcast about Nerds, News, & NSA gold</small>
+  </h3>
+</div>
+
+<p class="text-center">
+  <img height="300px" width="300px" src="https://rallysecurity.com/img/logo-360x360.png" alt="RallySecurityPodcast logo">
+</p>
+
+<p>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity</p>
+
+  <script class="podlove-subscribe-button"
+          src="/subscribe-button/javascripts/app.js"
+          data-language="en"
+          data-size="medium auto"
+          data-style="filled"
+          data-json-data="podcastData"
+          data-colors="#FC6E51;green;blue">
+  </script>
+
+  <script>
+    window.podcastData = {
+      "title": "RallySecurityPodcast",
+      "subtitle": "A security podcast about Nerds, News, & NSA gold",
+      "description": "RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on https://twitch.tv/rallysecurity",
+      "cover": "https://rallysecurity.com/img/logo-360x360.png",
+      "feeds": [
+      
+        {
+          "type": "audio",
+          "format": "mp3",
+          "url": "https://rallysecurity.com/episodes.mp3.rss",
+          "directory-url-itunes": "https://itunes.apple.com/at/podcast/myname/id232323",
+          "variant": "high"
+        },
+      
+        {
+          "type": "audio",
+          "format": "m4a",
+          "url": "https://rallysecurity.com/episodes.m4a.rss",
+          "directory-url-itunes": "https://itunes.apple.com/at/podcast/myname/id232323",
+          "variant": "high"
+        },
+      
+        {
+          "type": "audio",
+          "format": "ogg",
+          "url": "https://rallysecurity.com/episodes.ogg.rss",
+          "directory-url-itunes": "https://itunes.apple.com/at/podcast/myname/id232323",
+          "variant": "high"
+        },
+      
+      ]
+    }
+  </script>
+</p>
+
+<hr/>
+
+<div class="container">
+<a href="https://www.twitch.tv/rallysecurity"><img src="../img/twitch-icon-240x240.png"style="width: 32px; height: 32px;"> Follow us on Twitch</a>
+<br />
+<a href="
+https://www.twitch.tv/subs/rallysecurity"><img src="../img/twitch-icon-240x240.png"style="width: 32px; height: 32px;"> Subscribe on Twitch</a>
+<br />
+<a href="https://www.youtube.com/rallysecurity?sub_confirmation=1"><img src="../img/youtube-icon-32x32.png"style="width: 32px; height: 32px;"> Subscribe on Youtube</a>
+<br />
+<a class="twitter-follow-button" href="https://twitter.com/rallysecurity"><img src="../img/twitter-icon-32x32.png" style="width: 32px; height: 32px;"> Follow us on Twitter</a>
+<br />
+<a href="https://discord.gg/pfNgCgf"><img src="../img/discord-icon-240x240.png" style="width: 32px; height: 32px;"> Join our Discord Server</a>
+</div>
+
+<hr/>
+
+<h4>RSS-Feeds</h4>
+
+<ol type="i">
+  
+    <li><a href="https://rallysecurity.com/episodes.mp3.rss"><i class="fa fa-rss"></i> mp3-RSS-Feed</a></li>
+  
+    <li><a href="https://rallysecurity.com/episodes.m4a.rss"><i class="fa fa-rss"></i> m4a-RSS-Feed</a></li>
+  
+    <li><a href="https://rallysecurity.com/episodes.ogg.rss"><i class="fa fa-rss"></i> ogg-RSS-Feed</a></li>
+  
+</ol>
+
+<h4>JSON-Feeds</h4>
+
+<ol type="i">
+  
+    <li><a href="https://rallysecurity.com/feed.m4a.json"><i class="fa fa-rss-square"></i> m4a-JSON-Feed</a></li>
+  
+    <li><a href="https://rallysecurity.com/feed.mp3.json"><i class="fa fa-rss-square"></i> mp3-JSON-Feed</a></li>
+  
+    <li><a href="https://rallysecurity.com/feed.ogg.json"><i class="fa fa-rss-square"></i> ogg-JSON-Feed</a></li>
+  
+</ol>
+
+
+
+<h4>Directories</h4>
+
+<ol type="i">
+  
+    <li>in Apple-<a href="https://itunes.apple.com/at/podcast/myname/id232323"><i class="fab fa-apple"></i> Itunes</a></li>
+  
+  
+  
+  
+  
+</ol>
+
+
+<h4>License</h4>
+
+
+  <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+    
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    
+  </a>
+
+
+<hr/>
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="row" id="footer">
+        <small class="pull-right">
+          Powered by <a href="https://jekyll-octopod.github.io/">jekyll-octopod</a>
+          and <a href="http://jekyllrb.com/">Jekyll</a>.
+        </small>
+      </div>
+    </div><!-- /.container -->
+  </div><!-- /.container -->
+</html>
