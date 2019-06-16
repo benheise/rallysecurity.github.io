@@ -18,13 +18,13 @@
 
     <atom:link rel="alternate" href="https://rallysecurity.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
 <atom:link rel="alternate" href="https://rallysecurity.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <description>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch
+    <description>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.
 </description>
-    <lastBuildDate>Sun, 16 Jun 2019 16:05:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 16:08:17 -0400</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
-    <itunes:summary>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch
+    <itunes:summary>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.
 </itunes:summary>
     <itunes:author>Ben Heise</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
