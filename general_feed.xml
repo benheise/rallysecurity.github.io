@@ -4,13 +4,120 @@
   <title>RallySecurityPodcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-06-17T10:14:23-04:00</updated>
+  <updated>2019-06-17T14:04:04-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
     <email>ben@rallysecurity.com</email>
   </author>
 
+  
+    <entry>
+      <title>Our Podcasting Gear</title>
+      <link href="https://rallysecurity.com/2019/06/17/Our-Podcasting-Gear.html"/>
+      <updated>2019-06-17T00:00:00-04:00</updated>
+      <id>https://rallysecurity.com/2019/06/17/Our-Podcasting-Gear</id>
+      <content type="html">&lt;p&gt;I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)&lt;/p&gt;
+
+&lt;h3 id=&quot;bens-setup&quot;&gt;Ben’s Setup&lt;/h3&gt;
+
+&lt;p&gt;Lets start with my first camera, &lt;a href=&quot;https://amzn.to/2IkQOnc&quot;&gt;the Logitech C920&lt;/a&gt;. It’s been the workhorse for streamers for a while, and it’s pretty solid. Out of the box (I think) I didn’t need to install drivers, Windows 10 just recognized it and installed a compatible driver.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_ss_il?keywords=Logitech+C920&amp;amp;qid=1560791219&amp;amp;s=gateway&amp;amp;sr=8-3&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=a8c315c1663b516533ed03da831e49a9&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B006JH8T3S&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B006JH8T3S&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My only comment for this is that I had to install &lt;a href=&quot;https://support.logitech.com/en_us/product/hd-pro-webcam-c920/downloads#&quot;&gt;logitech’s control software&lt;/a&gt; to manage its autofocus and other fine tuning features. Getting a good balance and focus is critical if you’re going to be streaming your appearance.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Once the stream started taking off I upgraded to the &lt;a href=&quot;https://amzn.to/2IMyQsL&quot;&gt;Logitech C922x Pro webcam&lt;/a&gt; as the &lt;a href=&quot;https://amzn.to/2IkQOnc&quot;&gt;C920&lt;/a&gt; didn’t have all of the features I was looking for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=as_li_ss_il?crid=1VPIQ6BI6OYX7&amp;amp;keywords=logitech+c922x+pro+stream+webcam&amp;amp;pd_rd_i=B01LXCDPPK&amp;amp;pd_rd_r=567c7a76-a78c-4d6e-bb20-6b9771316f2f&amp;amp;pd_rd_w=rXvS8&amp;amp;pd_rd_wg=Jzu7r&amp;amp;pf_rd_p=b0a90583-d22c-4c32-806b-f09cd6946e61&amp;amp;pf_rd_r=NYTZ0R690BP458XKRAFY&amp;amp;qid=1560791626&amp;amp;s=gateway&amp;amp;sprefix=Logitech+C922x,aps,100&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=516eae9e3615fe89fcd7b52699c35afc&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B01LXCDPPK&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B01LXCDPPK&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was hoping I could get by without using a real green screen like the &lt;a href=&quot;https://amzn.to/2Xn3Vg1&quot;&gt;Elgato collapsible chroma green screen&lt;/a&gt;, and it does decently well if you have a solid background like a monocolor wall or something behind you. I’ve got a U shaped desk which doesn’t lend itself well to the optimal kind of setup, which is why I ended up getting the greenscreen as well as this webcam.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Due to my time with an artillary unit in the US Army, I’m partially deaf and sometimes have a hard time hearing certain frequencies, so having a decent headset can help overcome this. When we first started the podcast, I was using a &lt;a href=&quot;https://amzn.to/2IowgdH&quot;&gt;Logitech G930 surround sound headset&lt;/a&gt; that I had originally purchased back in 2013, but as the battery in that headset eventually wore out it got handed over to &lt;a href=&quot;https://twitter.com/glytchtech&quot;&gt;Glytchtech&lt;/a&gt; to see if he could salvage it. I upgraded to a &lt;a href=&quot;https://amzn.to/31D40vs&quot;&gt;Logitech G933 surround sound headset&lt;/a&gt; in 2017 and have been using it ever since.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Logitech-G933-Artemis-Spectrum-Compatible/dp/B0148NPJ78/ref=as_li_ss_il?keywords=logitech+G930&amp;amp;qid=1560792120&amp;amp;s=gateway&amp;amp;sr=8-3&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=1b23465663a703aac2d72da969c338c9&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B0148NPJ78&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B0148NPJ78&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This headset has been my daily driver for the last two years, and has been problem free and crystal clear. My only complaint is that the battery in the G933 doesn’t last as long as the G930 did, but it does last several hours, which is more than long enough to do the podcast.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For a podcaster or streamer, a microphone is one of the most important, if not THE most important, piece of equipment. This is not something you can skimp on. Poor audio quality was identified as the biggest reason a viewer or listener would stop tuning in. I shopped this out for a long while, looking at the &lt;a href=&quot;https://amzn.to/2KYncxB&quot;&gt;BlueYeti USB condenser mic&lt;/a&gt; and a couple others, but eventually settled on the &lt;a href=&quot;https://amzn.to/2MTAAWJ&quot;&gt;Audio-Technica AT2020USB PLUS Cardioid Condenser USB Microphone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Audio-Technica-AT2020USB-Cardioid-Condenser-Microphone/dp/B00B5ZX9FM/ref=as_li_ss_il?keywords=AT2020+usb&amp;amp;qid=1560792322&amp;amp;s=gateway&amp;amp;sr=8-3&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=9f3ee59fc3f12360354f7995145658f0&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B00B5ZX9FM&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B00B5ZX9FM&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re going to use a condenser mic, realize that its decent for the price range, but out of the box  &lt;strong&gt;it will pick up EVERYTHING that happens in the recording room or even adjacent rooms&lt;/strong&gt;. If you burp, if your dog farts, if someone in the other room sneezes, if a &lt;strong&gt;baby cries on the foor above you&lt;/strong&gt; (this happened on several episodes, I’m so sorry!), your condenser mic &lt;strong&gt;WILL&lt;/strong&gt; pick it up. Filtering this out via software is VERY difficult and imperfect.&lt;/p&gt;
+
+&lt;p&gt;Another consideration is that the mic has to be positioned (ideally) within 12 inches at most of your mouth, which means you’ll want to get an arm mount. Another issue I encountered is that the condenser mics pick up EVERY vibration. Typing on the keyboard, moving the mouse, your hand hitting the desk, tapping your foot, drumming your fingers on the desk, or anything else that causes vibrations will be picked up by your condenser microphone. I went with the &lt;a href=&quot;https://amzn.to/2InHsav&quot;&gt;Neewer arm that also includes a shock mount&lt;/a&gt; that clamps to my U shaped desk, and allowed me to position this close enough to my face.&lt;/p&gt;
+
+&lt;p&gt;Once you have a condenser mic correctly positioned, there’s still a &lt;a href=&quot;https://obsproject.com/forum/resources/better-voice-recordings.514/&quot;&gt;bunch of software tuning you need to do&lt;/a&gt; in order to make your condenser mic have decent sound quality.&lt;/p&gt;
+
+&lt;p&gt;Another known issue I ran into is that condenser mics pick up every gust of air, so you’ll need to purchase a pop filter. I ended up getting a &lt;a href=&quot;https://amzn.to/2FcNqJm&quot;&gt;fairly cheap eBerry U-shaped microphone pop filter&lt;/a&gt; that straps to the &lt;a href=&quot;https://amzn.to/2MTAAWJ&quot;&gt;AT2020USB mic&lt;/a&gt;. This works well enough to reduce pop sounds.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Though not essential, a greenscreen can allow you to do some fun things, like &lt;a href=&quot;https://twitter.com/CharlesDardaman/status/999746631397400576&quot;&gt;change out the background behind you for a floating dumpster fire gif&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/Dd_QLPnUwAEU_XO.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I originally tried using a &lt;a href=&quot;https://amzn.to/2IlhB2W&quot;&gt;green chromakey cloth background&lt;/a&gt; but found that it was very cumbersome and took up a ton of space, and didn’t work well. I ended up purchasing a &lt;a href=&quot;https://amzn.to/2ImNtEr&quot;&gt;collapsible Elgato chromakey green screen&lt;/a&gt;, which rolls up into a base and is much easier to setup and take down.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B0743Z892W/ref=as_li_ss_il?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=21f162e32e103834c6995ddda2b340e3&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B0743Z892W&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B0743Z892W&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Having a greenscreen behind you is NOT essential for any broadcast, but if you’re looking for one I would highly recommend this one. I wish it had been around when I was first streaming as it’s worth every penny.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you’re just doing a podcast and not streaming live to any platform, you can probably do without this. I found that for our broadcast, because we change scenes frequently and have a lot of moving parts, having a physical button I could push to control scenes made my life MUCH easier. I found the &lt;a href=&quot;https://amzn.to/31DorZ5&quot;&gt;Elgato stream deck&lt;/a&gt; filled this PERFECTLY.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B06XKNZT1P/ref=as_li_ss_il?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=d8ec591c7eb71e3f591e4129b50dca64&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B06XKNZT1P&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B06XKNZT1P&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No more clicking 5-6 times on screen to change scenes, or manually typing a tweet every time we went live, I could just press a button and it would do all that for me. They &lt;a href=&quot;https://amzn.to/2RkVvQI&quot;&gt;make a smaller one&lt;/a&gt; as &lt;a href=&quot;https://amzn.to/2XeVO5j&quot;&gt;well as a larger one&lt;/a&gt; though I think 15 buttons hits that sweet spot of having enough at hand that I don’t have to make subfolders for it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;mzbats-setup&quot;&gt;MzBat’s Setup&lt;/h3&gt;
+
+&lt;p&gt;MzBat uses &lt;a href=&quot;https://amzn.to/2IkQOnc&quot;&gt;a Logitech C920&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/mzbat&quot;&gt;Ask her on twitter&lt;/a&gt; about her other gear.&lt;/p&gt;
+
+&lt;h3 id=&quot;oscarons-setup&quot;&gt;Oscaron’s Setup&lt;/h3&gt;
+
+&lt;p&gt;Oscaron uses a &lt;a href=&quot;https://amzn.to/2KYncxB&quot;&gt;BlueYeti USB condenser mic&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/oscaron&quot;&gt;Ask him on twitter&lt;/a&gt; about his other gear.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;dannys-setup&quot;&gt;Danny’s Setup&lt;/h3&gt;
+
+&lt;p&gt;Danny uses a &lt;a href=&quot;https://amzn.to/2KYncxB&quot;&gt;BlueYeti USB condenser mic&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/dakacki&quot;&gt;Ask him on twitter&lt;/a&gt; about his other gear.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ajedidays-setup&quot;&gt;Ajediday’s Setup&lt;/h3&gt;
+
+&lt;p&gt;Ajediday uses &lt;a href=&quot;https://amzn.to/2IkQOnc&quot;&gt;a Logitech C920&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/ajediday&quot;&gt;Ask him on twitter&lt;/a&gt; about his other gear.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you have any questions about the gear I covered here or anything else related to streaming, I love helping get other folks setup to start a podcast or stream to twitch. Hit me up on &lt;a href=&quot;https://twitter.com/benheise&quot;&gt;twitter&lt;/a&gt; and I’ll dive in.&lt;/p&gt;
+
+&lt;p&gt;-Ben&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the Author&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://secure.gravatar.com/avatar/5a0cec1da0e5b90eb6e8176b932fb954?s=170&amp;amp;d=mm&amp;amp;r=g&quot; alt=&quot;Ben Heise&quot; title=&quot;Ben Heise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</content>
+      
+      
+    </entry>
   
     <entry>
       <title>Season 1 Episodes 1-100</title>
