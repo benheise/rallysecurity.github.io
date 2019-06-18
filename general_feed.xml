@@ -4,13 +4,47 @@
   <title>RallySecurityPodcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-06-17T22:11:51-04:00</updated>
+  <updated>2019-06-18T16:39:49-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
     <email>ben@rallysecurity.com</email>
   </author>
 
+  
+    <entry>
+      <title>Season 1 Challenges</title>
+      <link href="https://rallysecurity.com/2019/06/18/Season1-Challenges.html"/>
+      <updated>2019-06-18T00:00:00-04:00</updated>
+      <id>https://rallysecurity.com/2019/06/18/Season1-Challenges</id>
+      <content type="html">&lt;h4 id=&quot;goals&quot;&gt;Goals&lt;/h4&gt;
+&lt;p&gt;My goals for RallySec are to make a freely available podcast that shares insights from our experiences in the industry, to help others learn, but also so we can learn from folks who participate in the conversation in Twitch chat or via Twitter. We don’t know everything :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;web-hosting&quot;&gt;Web Hosting&lt;/h4&gt;
+
+&lt;p&gt;For Season 1 (the first 100 episodes that ran from 2016-2018) our biggest cost was web hosting. Distributing 130MB-ish files each episode in this decade doesn’t seem like a big deal, and it wasn’t… at first. In November 2017, our monthly web cost was $30. As we continued to stream and post episodes, our biggest issue became hosting 100 of these 130MB episodes, distributing them to subscribers quickly, and doing it cheaply. We had built our webstack using AWS, but like many folks who start hosting on AWS, we found as we grew to 3000+ regular listeners, that we would regularly get charged $120+ a month for just data transfer, which quickly consumed all of the community’s generous support. To stay true to our goals, we needed to reduce this cost moving forward.&lt;/p&gt;
+
+&lt;p&gt;For Season 2, we’ve moved our webstack to a static Jekyll site built on Github, and are making use of Github’s LFS to host those monster 130MB files. Github doesn’t sponsor us, but.. we appreciate them footing the bill for this :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;-Ben&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the Author&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://secure.gravatar.com/avatar/5a0cec1da0e5b90eb6e8176b932fb954?s=170&amp;amp;d=mm&amp;amp;r=g&quot; alt=&quot;Ben Heise&quot; title=&quot;Ben Heise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</content>
+      
+      
+    </entry>
   
     <entry>
       <title>Our Podcasting Gear</title>
