@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://rallysecurity.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rallysecurity.com/" rel="alternate" type="text/html" /><updated>2019-06-27T21:39:26-04:00</updated><id>https://rallysecurity.com/feed.xml</id><title type="html">RallySecurityPodcast</title><subtitle>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.</subtitle><author><name>Ben Heise</name></author><entry><title type="html">Season 1 Challenges</title><link href="https://rallysecurity.com/2019/06/18/Season1-Challenges.html" rel="alternate" type="text/html" title="Season 1 Challenges" /><published>2019-06-18T00:00:00-04:00</published><updated>2019-06-18T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/18/Season1-Challenges</id><content type="html" xml:base="https://rallysecurity.com/2019/06/18/Season1-Challenges.html">&lt;h4 id=&quot;goals&quot;&gt;Goals&lt;/h4&gt;
-&lt;p&gt;My goals for RallySec are to make a freely available podcast that shares insights from our experiences in the industry, to help others learn, but also so we can learn from folks who participate in the conversation in Twitch chat or via Twitter. We don’t know everything :)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;web-hosting&quot;&gt;Web Hosting&lt;/h4&gt;
-
-&lt;p&gt;For Season 1 (the first 100 episodes that ran from 2016-2018) our biggest cost was web hosting. Distributing 130MB-ish files each episode in this decade doesn’t seem like a big deal, and it wasn’t… at first. In November 2017, our monthly web cost was $30. As we continued to stream and post episodes, our biggest issue became hosting 100 of these 130MB episodes, distributing them to subscribers quickly, and doing it cheaply. We had built our webstack using AWS, but like many folks who start hosting on AWS, we found as we grew to 3000+ regular listeners, that we would regularly get charged $120+ a month for just data transfer, which quickly consumed all of the community’s generous support. To stay true to our goals, we needed to reduce this cost moving forward.&lt;/p&gt;
-
-&lt;p&gt;For Season 2, we’ve moved our webstack to a static Jekyll site built on Github, and are making use of Github’s LFS to host those monster 130MB files. Github doesn’t sponsor us, but.. we appreciate them footing the bill for this :)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;-Ben&lt;/p&gt;
-
-&lt;h4 id=&quot;about-the-author&quot;&gt;About the Author&lt;/h4&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://secure.gravatar.com/avatar/5a0cec1da0e5b90eb6e8176b932fb954?s=170&amp;amp;d=mm&amp;amp;r=g&quot; alt=&quot;Ben Heise&quot; title=&quot;Ben Heise&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">Goals My goals for RallySec are to make a freely available podcast that shares insights from our experiences in the industry, to help others learn, but also so we can learn from folks who participate in the conversation in Twitch chat or via Twitter. We don’t know everything :)</summary></entry><entry><title type="html">Our Podcasting Gear</title><link href="https://rallysecurity.com/2019/06/17/Our-Podcasting-Gear.html" rel="alternate" type="text/html" title="Our Podcasting Gear" /><published>2019-06-17T00:00:00-04:00</published><updated>2019-06-17T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/17/Our-Podcasting-Gear</id><content type="html" xml:base="https://rallysecurity.com/2019/06/17/Our-Podcasting-Gear.html">&lt;p&gt;I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://rallysecurity.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rallysecurity.com/" rel="alternate" type="text/html" /><updated>2019-06-30T11:47:49-04:00</updated><id>https://rallysecurity.com/feed.xml</id><title type="html">RallySecurityPodcast</title><subtitle>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.</subtitle><author><name>Ben Heise</name></author><entry><title type="html">Our Podcasting Gear</title><link href="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html" rel="alternate" type="text/html" title="Our Podcasting Gear" /><published>2019-06-30T00:00:00-04:00</published><updated>2019-06-30T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear</id><content type="html" xml:base="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html">&lt;p&gt;I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)&lt;/p&gt;
 
 &lt;h3 id=&quot;bens-setup&quot;&gt;Ben’s Setup&lt;/h3&gt;
 
@@ -37,6 +15,14 @@
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=as_li_ss_il?crid=1VPIQ6BI6OYX7&amp;amp;keywords=logitech+c922x+pro+stream+webcam&amp;amp;pd_rd_i=B01LXCDPPK&amp;amp;pd_rd_r=567c7a76-a78c-4d6e-bb20-6b9771316f2f&amp;amp;pd_rd_w=rXvS8&amp;amp;pd_rd_wg=Jzu7r&amp;amp;pf_rd_p=b0a90583-d22c-4c32-806b-f09cd6946e61&amp;amp;pf_rd_r=NYTZ0R690BP458XKRAFY&amp;amp;qid=1560791626&amp;amp;s=gateway&amp;amp;sprefix=Logitech+C922x,aps,100&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=516eae9e3615fe89fcd7b52699c35afc&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B01LXCDPPK&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B01LXCDPPK&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I was hoping I could get by without using a real green screen like the &lt;a href=&quot;https://amzn.to/2Xn3Vg1&quot;&gt;Elgato collapsible chroma green screen&lt;/a&gt;, and it does decently well if you have a solid background like a monocolor wall or something behind you. I’ve got a U shaped desk which doesn’t lend itself well to the optimal kind of setup, which is why I ended up getting the greenscreen as well as this webcam.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Just as important as your camera is making sure you have good lighting. I use an &lt;a href=&quot;https://amzn.to/2NlJTig&quot;&gt;Neewer dimmable 480 bead LED array&lt;/a&gt; which lets me adjust the lighting in the room to get the right balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B01934RL0U/ref=as_li_ss_il?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=li2&amp;amp;tag=rallysecurity-20&amp;amp;linkId=5c04ab6af5c4f24382c59522e8171cb8&amp;amp;language=en_US&quot; target=&quot;_blank&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B01934RL0U&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=rallysecurity-20&amp;amp;language=en_US&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;https://ir-na.amazon-adsystem.com/e/ir?t=rallysecurity-20&amp;amp;language=en_US&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B01934RL0U&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have your lighting, its just a matter of balancing the camera’s exposure and settings to ensure you have a good setup. If you’re using OBS for your streaming application you can add LUTs to further enhance your camera setup.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -94,7 +80,9 @@
 
 &lt;h3 id=&quot;dannys-setup&quot;&gt;Danny’s Setup&lt;/h3&gt;
 
-&lt;p&gt;Danny uses a &lt;a href=&quot;https://amzn.to/2KYncxB&quot;&gt;BlueYeti USB condenser mic&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/dakacki&quot;&gt;Ask him on twitter&lt;/a&gt; about his other gear.&lt;/p&gt;
+&lt;p&gt;Danny uses a &lt;a href=&quot;https://amzn.to/2KYncxB&quot;&gt;BlueYeti USB condenser mic&lt;/a&gt; with a &lt;a href=&quot;https://amzn.to/301ODeb&quot;&gt;Blue Radius II shock mount&lt;/a&gt; mounted on a &lt;a href=&quot;https://amzn.to/2Xzo3vC&quot;&gt;Heil Sound mic boom&lt;/a&gt;. For his pop filter, he uses a &lt;a href=&quot;https://amzn.to/2RJqUwF&quot;&gt;ZINGYOU Microphone Pop Filter&lt;/a&gt;. He uses a &lt;a href=&quot;https://amzn.to/2RJXnmw&quot;&gt;Sony Studio Monitor MDRV6&lt;/a&gt; for his headphones.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/dakacki&quot;&gt;Ask him on twitter&lt;/a&gt; about his other gear.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -131,7 +119,29 @@
 
 &lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)</summary></entry><entry><title type="html">Season 1 Episodes 1-100</title><link href="https://rallysecurity.com/2019/06/06/episode1-100.html" rel="alternate" type="text/html" title="Season 1 Episodes 1-100" /><published>2019-06-06T00:00:00-04:00</published><updated>2019-06-06T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/06/episode1-100</id><content type="html" xml:base="https://rallysecurity.com/2019/06/06/episode1-100.html">&lt;ul&gt;
+&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)</summary></entry><entry><title type="html">Season 1 Challenges</title><link href="https://rallysecurity.com/2019/06/18/Season1-Challenges.html" rel="alternate" type="text/html" title="Season 1 Challenges" /><published>2019-06-18T00:00:00-04:00</published><updated>2019-06-18T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/18/Season1-Challenges</id><content type="html" xml:base="https://rallysecurity.com/2019/06/18/Season1-Challenges.html">&lt;h4 id=&quot;goals&quot;&gt;Goals&lt;/h4&gt;
+&lt;p&gt;My goals for RallySec are to make a freely available podcast that shares insights from our experiences in the industry, to help others learn, but also so we can learn from folks who participate in the conversation in Twitch chat or via Twitter. We don’t know everything :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;web-hosting&quot;&gt;Web Hosting&lt;/h4&gt;
+
+&lt;p&gt;For Season 1 (the first 100 episodes that ran from 2016-2018) our biggest cost was web hosting. Distributing 130MB-ish files each episode in this decade doesn’t seem like a big deal, and it wasn’t… at first. In November 2017, our monthly web cost was $30. As we continued to stream and post episodes, our biggest issue became hosting 100 of these 130MB episodes, distributing them to subscribers quickly, and doing it cheaply. We had built our webstack using AWS, but like many folks who start hosting on AWS, we found as we grew to 3000+ regular listeners, that we would regularly get charged $120+ a month for just data transfer, which quickly consumed all of the community’s generous support. To stay true to our goals, we needed to reduce this cost moving forward.&lt;/p&gt;
+
+&lt;p&gt;For Season 2, we’ve moved our webstack to a static Jekyll site built on Github, and are making use of Github’s LFS to host those monster 130MB files. Github doesn’t sponsor us, but.. we appreciate them footing the bill for this :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;-Ben&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the Author&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://secure.gravatar.com/avatar/5a0cec1da0e5b90eb6e8176b932fb954?s=170&amp;amp;d=mm&amp;amp;r=g&quot; alt=&quot;Ben Heise&quot; title=&quot;Ben Heise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">Goals My goals for RallySec are to make a freely available podcast that shares insights from our experiences in the industry, to help others learn, but also so we can learn from folks who participate in the conversation in Twitch chat or via Twitter. We don’t know everything :)</summary></entry><entry><title type="html">Season 1 Episodes 1-100</title><link href="https://rallysecurity.com/2019/06/06/episode1-100.html" rel="alternate" type="text/html" title="Season 1 Episodes 1-100" /><published>2019-06-06T00:00:00-04:00</published><updated>2019-06-06T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/06/episode1-100</id><content type="html" xml:base="https://rallysecurity.com/2019/06/06/episode1-100.html">&lt;ul&gt;
   &lt;li&gt;We’ve compressed all of our season1 audio episodes into one place, and you can &lt;a href=&quot;https://drive.google.com/file/d/1zikkkqThq0pS8j7Dt04PaOJqfx6Ogwrc/view?usp=sharing&quot;&gt;get the big archive here (12GB)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;If you’re looking for the video recordings of our past episodes, you can &lt;a href=&quot;https://www.youtube.com/watch?v=rWYimHNGphE&amp;amp;list=PLME-u8_rMnuM41hSNb5xkFwle9Cu_mduW&quot;&gt;find it on our Youtube channel here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Ben Heise</name></author><summary type="html">We’ve compressed all of our season1 audio episodes into one place, and you can get the big archive here (12GB) If you’re looking for the video recordings of our past episodes, you can find it on our Youtube channel here</summary></entry><entry><title type="html">Cat and Mouse- The Effects of Threat Research on Nation-State Actors</title><link href="https://rallysecurity.com/2016/08/19/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors.html" rel="alternate" type="text/html" title="Cat and Mouse- The Effects of Threat Research on Nation-State Actors" /><published>2016-08-19T00:00:00-04:00</published><updated>2016-08-19T00:00:00-04:00</updated><id>https://rallysecurity.com/2016/08/19/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors</id><content type="html" xml:base="https://rallysecurity.com/2016/08/19/Cat-and-mouse-the-effects-of-threat-research-on-nation-state-actors.html">&lt;blockquote&gt;
