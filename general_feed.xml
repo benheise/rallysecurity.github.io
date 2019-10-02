@@ -4,7 +4,7 @@
   <title>RallySecurityPodcast</title>
   <link href="https://rallysecurity.com/general_feed.xml" rel="self"/>
   <link href="https://rallysecurity.com"/>
-  <updated>2019-10-01T21:01:09-04:00</updated>
+  <updated>2019-10-01T21:02:23-04:00</updated>
   <id>https://rallysecurity.com/</id>
   <author>
     <name>Ben Heise</name>
@@ -19,7 +19,14 @@
       <id>https://rallysecurity.com/2019/10/01/RallySec-ExtraLife</id>
       <content type="html">&lt;p&gt;This past Tuesday, I announced that we are organizing a D&amp;amp;D 5E event supporting the ExtraLife charity. &lt;a href=&quot;https://www.renditioninfosec.com/index#about&quot;&gt;Rendition Infosec&lt;/a&gt; has chosen to sponsor this event, and the players are donating their time and help organizing and creating it. This is going to be fun!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://rallysecurity.com/img/extralife-event-banner.png =200x200&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;![Banner](https://rallysecurity.com/img/extralife-event-banner.png&lt;/td&gt;
+      &lt;td&gt;width=50)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&quot;what-it-is&quot;&gt;What it is&lt;/h3&gt;
 
