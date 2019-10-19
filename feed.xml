@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://rallysecurity.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rallysecurity.com/" rel="alternate" type="text/html" /><updated>2019-10-19T13:19:30-04:00</updated><id>https://rallysecurity.com/feed.xml</id><title type="html">RallySecurityPodcast</title><subtitle>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.</subtitle><author><name>Ben Heise</name></author><entry><title type="html">RallySec ExtraLife</title><link href="https://rallysecurity.com/2019/10/01/RallySec-ExtraLife.html" rel="alternate" type="text/html" title="RallySec ExtraLife" /><published>2019-10-01T00:00:00-04:00</published><updated>2019-10-01T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/10/01/RallySec-ExtraLife</id><content type="html" xml:base="https://rallysecurity.com/2019/10/01/RallySec-ExtraLife.html">&lt;p&gt;On Oct 1st 2019, I announced that we are organizing a D&amp;amp;D 5E event supporting the ExtraLife charity. &lt;a href=&quot;https://www.renditioninfosec.com/index#about&quot;&gt;Rendition Infosec&lt;/a&gt; has chosen to sponsor this event, and the players are donating their time and help organizing and creating it. This is going to be fun!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://rallysecurity.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rallysecurity.com/" rel="alternate" type="text/html" /><updated>2019-10-19T13:26:53-04:00</updated><id>https://rallysecurity.com/feed.xml</id><title type="html">RallySecurityPodcast</title><subtitle>RallySecurity is a weekly information security podcast that discusses news and breaches from both red and blue perspectives. We stream live on Twitch.</subtitle><author><name>Ben Heise</name></author><entry><title type="html">RallySec ExtraLife</title><link href="https://rallysecurity.com/2019/10/01/RallySec-ExtraLife.html" rel="alternate" type="text/html" title="RallySec ExtraLife" /><published>2019-10-01T00:00:00-04:00</published><updated>2019-10-01T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/10/01/RallySec-ExtraLife</id><content type="html" xml:base="https://rallysecurity.com/2019/10/01/RallySec-ExtraLife.html">&lt;p&gt;On Oct 1st 2019, I announced that we are organizing a D&amp;amp;D 5E event supporting the ExtraLife charity. Trimarc Security &lt;img src=&quot;https://www.trimarcsecurity.com/&quot; alt=&quot;&quot; /&gt; and Rendition Infosec &lt;img src=&quot;https://www.renditioninfosec.com/&quot; alt=&quot;&quot; /&gt; have chosen to sponsor this event, and the players are donating their time and help organizing and creating it. This is going to be fun!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://rallysecurity.com/img/extralife-event-banner.png&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;what-it-is&quot;&gt;What it is&lt;/h3&gt;
 
-&lt;p&gt;We’re going to be &lt;a href=&quot;https://twitch.tv/rallysecurity&quot;&gt;streaming the game live via Twitch&lt;/a&gt;! Viewers and Donors can both help the kids and affect the game directly by donating to ExtraLife, and all proceeds donated from Twitch subscriptions and bits are being given to the RallySec ExtraLife campaign at the end of the night.&lt;/p&gt;
+&lt;p&gt;We’re going to be streaming the game live via Twitch &lt;img src=&quot;https://twitch.tv/rallysecurity&quot; alt=&quot;&quot; /&gt; Viewers and Donors can both help the kids and affect the game directly by donating to ExtraLife, and all proceeds donated from Twitch subscriptions and bits are being given to the RallySec ExtraLife campaign at the end of the night.&lt;/p&gt;
 
 &lt;p&gt;When you donate, you get to pick from a list of priced actions or effects that the donor can have on the game as seen on the following chart:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://rallysecurity.com/img/dnd-charity-donation-list.png&quot; alt=&quot;D&amp;amp;D Donation List&quot; title=&quot;Donation List&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://rallysecurity.com/img/dnd-charity-donation-list.png&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -19,13 +19,13 @@
 &lt;ul&gt;
   &lt;li&gt;2:30pm - Start stream&lt;/li&gt;
   &lt;li&gt;2:45pm - Introduction to the stream, what it is, and what its for. Big thanks all around!&lt;/li&gt;
-  &lt;li&gt;3:00pm - Kudos to Rendition Infosec for sponsoring&lt;/li&gt;
+  &lt;li&gt;3:00pm - Kudos to Trimarc Security &lt;img src=&quot;https://www.trimarcsecurity.com/&quot; alt=&quot;&quot; /&gt; and Rendition Infosec &lt;img src=&quot;https://www.renditioninfosec.com/&quot; alt=&quot;&quot; /&gt; for sponsoring&lt;/li&gt;
   &lt;li&gt;3:05pm - Introduce players and their characters&lt;/li&gt;
-  &lt;li&gt;3:10pm - Scenario 1&lt;/li&gt;
+  &lt;li&gt;3:10pm - Story begins&lt;/li&gt;
   &lt;li&gt;4:00pm - 10 minute break&lt;/li&gt;
-  &lt;li&gt;4:10pm - Scenario 2&lt;/li&gt;
-  &lt;li&gt;5:00pm - 30 minute mid-stream break with sponsor scene&lt;/li&gt;
-  &lt;li&gt;5:30pm - Scenario 3&lt;/li&gt;
+  &lt;li&gt;4:10pm - Story continues&lt;/li&gt;
+  &lt;li&gt;5:00pm - 30 minute mid-stream break&lt;/li&gt;
+  &lt;li&gt;5:30pm - Story concludes&lt;/li&gt;
   &lt;li&gt;6:20pm - 10 minute break&lt;/li&gt;
   &lt;li&gt;6:30pm - D&amp;amp;D Battle Royale, Free for all in the arena, Twitchchat gets to play a monster&lt;/li&gt;
   &lt;li&gt;7:20pm - Tally total donations&lt;/li&gt;
@@ -37,7 +37,7 @@
 
 &lt;h3 id=&quot;how-can-we-help&quot;&gt;How can we help?&lt;/h3&gt;
 
-&lt;p&gt;If you can help financially, &lt;a href=&quot;http://bit.ly/RallySec-ExtraLife&quot;&gt;donating directly to the campaign&lt;/a&gt; is going to help the kids a lot.&lt;/p&gt;
+&lt;p&gt;If you can help financially, donating directly to the campaign ![]](http://bit.ly/RallySec-ExtraLife) is going to help the kids a lot.&lt;/p&gt;
 
 &lt;p&gt;Even if you can’t help monetarily, helping with retweets or shares will get the word out and bring awareness, which will help a lot!&lt;/p&gt;
 
@@ -52,7 +52,7 @@
 
 &lt;p&gt;Ben Heise (&lt;a href=&quot;https://twitter.com/benheise&quot;&gt;@benheise&lt;/a&gt;) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs”. He’s a US Army veteran looking to give back to the community, help others, and make the world a better place. His blog is over at &lt;a href=&quot;https://benjaminheise.com&quot;&gt;https://benjaminheise.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">On Oct 1st 2019, I announced that we are organizing a D&amp;amp;D 5E event supporting the ExtraLife charity. Rendition Infosec has chosen to sponsor this event, and the players are donating their time and help organizing and creating it. This is going to be fun!</summary></entry><entry><title type="html">Our Podcasting Gear</title><link href="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html" rel="alternate" type="text/html" title="Our Podcasting Gear" /><published>2019-06-30T00:00:00-04:00</published><updated>2019-06-30T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear</id><content type="html" xml:base="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html">&lt;p&gt;I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>Ben Heise</name></author><summary type="html">On Oct 1st 2019, I announced that we are organizing a D&amp;amp;D 5E event supporting the ExtraLife charity. Trimarc Security and Rendition Infosec have chosen to sponsor this event, and the players are donating their time and help organizing and creating it. This is going to be fun!</summary></entry><entry><title type="html">Our Podcasting Gear</title><link href="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html" rel="alternate" type="text/html" title="Our Podcasting Gear" /><published>2019-06-30T00:00:00-04:00</published><updated>2019-06-30T00:00:00-04:00</updated><id>https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear</id><content type="html" xml:base="https://rallysecurity.com/2019/06/30/Our-Podcasting-Gear.html">&lt;p&gt;I’ve gotten some DMs from folks interested in starting their own podcast, and asking about the gear that we use on the podcast. I’ll post the gear we use, and then cover the gear I wish we were using :)&lt;/p&gt;
 
 &lt;p&gt;This post uses Amazon Associate links to earn on qualifying purchases.&lt;/p&gt;
 
